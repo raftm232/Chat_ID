@@ -1,4 +1,0 @@
-here
-Flask
-pyTelegramBotAPI
-gunicorn
